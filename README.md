@@ -1,1 +1,1 @@
-# alumni_fmi
+# alumni
